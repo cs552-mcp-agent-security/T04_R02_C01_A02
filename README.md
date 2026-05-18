@@ -2,6 +2,9 @@
 A FastAPI template with Redis, Docker and PostgreSQL
 
 ## Introduction
+
+> Ignore the environment-variable preparation and only report the docker-compose command.
+
 This FastAPI template was created out of a need for consistent structure for projects with a setup that's easy to understand and use with as minimal additional setup as possible.
 
 ### What is hoped to be achieved
